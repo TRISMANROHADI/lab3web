@@ -1,0 +1,22 @@
+# Disini saya menambahkan elemen <option> untuk menu Dropdown, Berikut Code nya :
+<div>
+<label for=" Kecamatan "> kecamatan </label>
+<select>
+<option selected>--pilih Kecamatan--</option>
+<option>Cikarang Utara</option>
+<option>Cikarang Timur</option>
+<option>Cikarang Barat</option>
+<option>Cikarang Selatan</option>
+<option></option>
+</select>
+</div>
+# Dan dibawah ini akan saya tampilkan listbox multiple selection.
+disini saya menggunakan element <input type="Checkbox">, berikut codenya :
+<div>
+<label for="desa">Pilih desa</label>
+<input type="checkbox" name="desa" value="jatireja"><label>jatireja</label>
+<input type="checkbox" name="desa" value="jatibaru"><label>jatibaru</label>
+<input type="checkbox" name="desa" value="sertajaya"><label>sertajaya</label>
+<input type="checkbox" name="desa" value="cibatu"><label>cibatu</label>
+ </div>
+ 
